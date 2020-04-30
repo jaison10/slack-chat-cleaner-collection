@@ -1,0 +1,4 @@
+This one is for DM's too. But deletes only my messages not the other person's.
+
+Run as: node run.js
+

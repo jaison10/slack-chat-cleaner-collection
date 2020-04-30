@@ -1,0 +1,2 @@
+THIS DELETES CHANNEL MESSAGES.
+Run as: node run.js <Channel id>
